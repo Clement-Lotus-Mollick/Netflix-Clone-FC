@@ -1,0 +1,9 @@
+@media only screen and (max-width: 400px) {
+    Html,body{
+       height:100%;
+       width:100%;
+       Margin: 0;
+       Padding: 0;
+       overflow-x: hidden;
+     }
+    }
